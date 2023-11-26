@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.grocory"
+    namespace "com.frontendsourcecode.gofood"
     defaultConfig {
-        applicationId "com.grocory"
+        applicationId "com.frontendsourcecode.gofood"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

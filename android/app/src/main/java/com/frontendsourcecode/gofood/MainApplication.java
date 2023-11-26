@@ -1,4 +1,4 @@
-package com.grocory;
+package com.frontendsourcecode.gofood;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

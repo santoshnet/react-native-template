@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "grocory.app"
-               BlueprintName = "grocory"
-               ReferencedContainer = "container:grocory.xcodeproj">
+               BuildableName = "GoFood.app"
+               BlueprintName = "GoFood"
+               ReferencedContainer = "container:GoFood.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "grocoryTests.xctest"
-               BlueprintName = "grocoryTests"
-               ReferencedContainer = "container:grocory.xcodeproj">
+               BuildableName = "GoFoodTests.xctest"
+               BlueprintName = "GoFoodTests"
+               ReferencedContainer = "container:GoFood.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "grocory.app"
-            BlueprintName = "grocory"
-            ReferencedContainer = "container:grocory.xcodeproj">
+            BuildableName = "GoFood.app"
+            BlueprintName = "GoFood"
+            ReferencedContainer = "container:GoFood.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "grocory.app"
-            BlueprintName = "grocory"
-            ReferencedContainer = "container:grocory.xcodeproj">
+            BuildableName = "GoFood.app"
+            BlueprintName = "GoFood"
+            ReferencedContainer = "container:GoFood.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
